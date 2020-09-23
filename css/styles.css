@@ -124,6 +124,7 @@ textarea {
 
 .contact-form {
     display: flex;
+    flex-wrap: wrap;
 }
 
 iframe {
